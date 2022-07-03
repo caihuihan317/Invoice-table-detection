@@ -1,0 +1,5 @@
+train: ../Invoice/train/images
+val: ../Invoice/valid/images
+
+nc: 1
+names: ['Table',]
